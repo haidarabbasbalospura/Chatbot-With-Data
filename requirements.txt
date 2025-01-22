@@ -8,3 +8,4 @@ youtube_transcript_api
 faiss-cpu
 openai
 tiktoken
+beautifulsoup4
