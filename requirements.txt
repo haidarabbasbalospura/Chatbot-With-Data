@@ -4,6 +4,7 @@ langchain
 langchain-openai
 langchain-google-genai
 langchain-community
+youtube_transcript_api
 faiss-cpu
 openai
 tiktoken
